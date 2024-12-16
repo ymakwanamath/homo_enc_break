@@ -1,0 +1,763 @@
+a is 3
+lk= 10
+ 
+size of prime number in bits is 10
+secret key is 547
+The length of data in bits is: 424
+value of a is 3
+cdash formed + 
+Break Successful 
+Secret key is 547
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 10and a =3
+Time taken in encryption of text is 
+1144.1707611083984
+Time taken to recover secret key is 
+438.690185546875
+Time taken in decryption 
+85.8306884765625
+
+ 
+ 
+ lk= 11
+ 
+size of prime number in bits is 11
+secret key is 1151
+The length of data in bits is: 424
+value of a is 3
+cdash formed + 
+Break Successful 
+Secret key is 1151
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 11and a =3
+Time taken in encryption of text is 
+1164.9131774902344
+Time taken to recover secret key is 
+223.39820861816406
+Time taken in decryption 
+85.59226989746094
+
+ 
+ 
+ lk= 12
+ 
+size of prime number in bits is 12
+secret key is 3631
+The length of data in bits is: 424
+value of a is 3
+cdash formed + 
+Break Successful 
+Secret key is 3631
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 12and a =3
+Time taken in encryption of text is 
+1112.9379272460938
+Time taken to recover secret key is 
+192.16537475585938
+Time taken in decryption 
+82.96966552734375
+
+ 
+ 
+ lk= 13
+ 
+size of prime number in bits is 13
+secret key is 4229
+The length of data in bits is: 424
+value of a is 3
+cdash formed + 
+Break Successful 
+Secret key is 4229
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 13and a =3
+Time taken in encryption of text is 
+1098.6328125
+Time taken to recover secret key is 
+160.45570373535156
+Time taken in decryption 
+73.67134094238281
+
+ 
+ 
+ lk= 14
+ 
+size of prime number in bits is 14
+secret key is 9181
+The length of data in bits is: 424
+value of a is 3
+cdash formed + 
+Break Successful 
+Secret key is 9181
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 14and a =3
+Time taken in encryption of text is 
+1048.0880737304688
+Time taken to recover secret key is 
+148.773193359375
+Time taken in decryption 
+69.37980651855469
+
+ 
+ 
+ lk= 15
+ 
+size of prime number in bits is 15
+secret key is 16561
+The length of data in bits is: 424
+value of a is 3
+cdash formed + 
+Break Successful 
+Secret key is 16561
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 15and a =3
+Time taken in encryption of text is 
+1144.8860168457031
+Time taken to recover secret key is 
+155.2104949951172
+Time taken in decryption 
+70.09506225585938
+
+ 
+ 
+ lk= 16
+ 
+size of prime number in bits is 16
+secret key is 43271
+The length of data in bits is: 424
+value of a is 3
+cdash formed + 
+Break Successful 
+Secret key is 43271
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 16and a =3
+Time taken in encryption of text is 
+936.5081787109375
+Time taken to recover secret key is 
+259.8762512207031
+Time taken in decryption 
+87.02278137207031
+
+ 
+ 
+ lk= 17
+ 
+size of prime number in bits is 17
+secret key is 93179
+The length of data in bits is: 424
+value of a is 3
+cdash formed + 
+Break Successful 
+Secret key is 93179
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 17and a =3
+Time taken in encryption of text is 
+910.7589721679688
+Time taken to recover secret key is 
+185.96649169921875
+Time taken in decryption 
+86.78436279296875
+
+ 
+ 
+ lk= 18
+ 
+size of prime number in bits is 18
+secret key is 143651
+The length of data in bits is: 424
+value of a is 3
+cdash formed + 
+Break Successful 
+Secret key is 143651
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 18and a =3
+Time taken in encryption of text is 
+900.7453918457031
+Time taken to recover secret key is 
+231.9812774658203
+Time taken in decryption 
+69.61822509765625
+
+ 
+ 
+ lk= 19
+ 
+size of prime number in bits is 19
+secret key is 448451
+The length of data in bits is: 424
+value of a is 3
+cdash formed + 
+Break Su69.61ccessful 
+Secret key is 448451
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 19and a =3
+Time taken in encryption of text is 
+903.3679962158203
+Time taken to recover secret key is 
+317.8119659423828
+Time taken in decryption 
+76.05552673339844
+
+ 
+ 
+ lk= 20
+ 
+size of prime number in bits is 20
+secret key is 965047
+The length of data in bits is: 424
+value of a is 3
+cdash formed + 
+Break Successful 
+Secret key is 965047
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 20and a =3
+Time taken in encryption of text is 
+1004.9343109130859
+Time taken to recover secret key is 
+140.19012451171875
+Time taken in decryption 
+67.94929504394531
+
+ 
+ 
+ a is 4
+lk= 10
+ 
+size of prime number in bits is 10
+secret key is 821
+The length of data in bits is: 424
+value of a is 4
+cdash formed + 
+Break Successful 
+Secret key is 821
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 10and a =4
+Time taken in encryption of text is 
+905.0369262695312
+Time taken to recover secret key is 
+127.55393981933594
+Time taken in decryption 
+70.09506225585938
+
+ 
+ 
+ lk= 11
+ 
+size of prime number in bits is 11
+secret key is 1223
+The length of data in bits is: 424
+value of a is 4
+cdash formed + 
+Break Successful 
+Secret key is 1223
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 11and a =4
+Time taken in encryption of text is 
+890.0165557861328
+Time taken to recover secret key is 
+287.2943878173828
+Time taken in decryption 
+63.65776062011719
+
+ 
+ 
+ lk= 12
+ 
+size of prime number in bits is 12
+secret key is 3491
+The length of data in bits is: 424
+value of a is 4
+cdash formed + 
+Break Successful 
+Secret key is 3491
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 12and a =4
+Time taken in encryption of text is 
+833.0345153808594
+Time taken to recover secret key is 
+133.03756713867188
+Time taken in decryption 
+65.08827209472656
+
+ 
+ 
+ lk= 13
+ 
+size of prime number in bits is 13
+secret key is 6247
+The length of data in bits is: 424
+value of a is 4
+cdash formed + 
+Break Successful 
+Secret key is 6247
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 13and a =4
+Time taken in encryption of text is 
+827.789306640625
+Time taken to recover secret key is 
+131.13021850585938
+Time taken in decryption 
+65.80352783203125
+
+ 
+ 
+ lk= 14
+ 
+size of prime number in bits is 14
+secret key is 10453
+The length of data in bits is: 424
+value of a is 4
+cdash formed + 
+Break Successful 
+Secret key is 10453
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 14and a =4
+Time taken in encryption of text is 
+868.0820465087891
+Time taken to recover secret key is 
+179.05235290527344
+Time taken in decryption 
+73.43292236328125
+
+ 
+ 
+ lk= 15
+ 
+size of prime number in bits is 15
+secret key is 23053
+The length of data in bits is: 424
+value of a is 4
+cdash formed + 
+Break Successful 
+Secret key is 23053
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 15and a =4
+Time taken in encryption of text is 
+880.4798126220703
+Time taken to recover secret key is 
+142.81272888183594
+Time taken in decryption 
+65.08827209472656
+
+ 
+ 
+ lk= 16
+ 
+size of prime number in bits is 16
+secret key is 56003
+The length of data in bits is: 424
+value of a is 4
+cdash formed + 
+Break Successful 
+Secret key is 56003
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 16and a =4
+Time taken in encryption of text is 
+850.2006530761719
+Time taken to recover secret key is 
+129.69970703125
+Time taken in decryption 
+65.32669067382812
+
+ 
+ 
+ lk= 17
+ 
+size of prime number in bits is 17
+secret key is 119839
+The length of data in bits is: 424
+value of a is 4
+cdash formed + 
+Break Successful 
+Secret key is 119839
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 17and a =4
+Time taken in encryption of text is 
+1026.153564453125
+Time taken to recover secret key is 
+149.01161193847656
+Time taken in decryption 
+73.90975952148438
+
+ 
+ 
+ lk= 18
+ 
+size of prime number in bits is 18
+secret key is 199637
+The length of data in bits is: 424
+value of a is 4
+cdash formed + 
+Break Successful 
+Secret key is 199637
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 18and a =4
+Time taken in encryption of text is 
+1012.0868682861328
+Time taken to recover secret key is 
+139.71328735351562
+Time taken in decryption 
+71.04873657226562
+
+ 
+ 
+ lk= 19
+ 
+size of prime number in bits is 19
+secret key is 454331
+The length of data in bits is: 424
+value of a is 4
+cdash formed + 
+Break Successful 
+Secret key is 454331
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 19and a =4
+Time taken in encryption of text is 
+954.3895721435547
+Time taken to recover secret key is 
+227.92816162109375
+Time taken in decryption 
+69.61822509765625
+
+ 
+ 
+ lk= 20
+ 
+size of prime number in bits is 20
+secret key is 1007081
+The length of data in bits is: 424
+value of a is 4
+cdash formed + 
+Break Successful 
+Secret key is 1007081
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 20and a =4
+Time taken in encryption of text is 
+970.8404541015625
+Time taken to recover secret key is 
+179.05235290527344
+Time taken in decryption 
+81.53915405273438
+
+ 
+ 
+ a is 5
+lk= 10
+ 
+size of prime number in bits is 10
+secret key is 673
+The length of data in bits is: 424
+value of a is 5
+cdash formed + 
+Break Successful 
+Secret key is 673
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 10and a =5
+Time taken in encryption of text is 
+958.6811065673828
+Time taken to recover secret key is 
+135.18333435058594
+Time taken in decryption 
+65.80352783203125
+
+ 
+ 
+ lk= 11
+ 
+size of prime number in bits is 11
+secret key is 1733
+The length of data in bits is: 424
+value of a is 5
+cdash formed + 
+Break Successful 
+Secret key is 1733
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 11and a =5
+Time taken in encryption of text is 
+931.5013885498047
+Time taken to recover secret key is 
+135.18333435058594
+Time taken in decryption 
+66.99562072753906
+
+ 
+ 
+ lk= 12
+ 
+size of prime number in bits is 12
+secret key is 3793
+The length of data in bits is: 424
+value of a is 5
+cdash formed + 
+Break Successful 
+Secret key is 3793
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 12and a =5
+Time taken in encryption of text is 
+890.2549743652344
+Time taken to recover secret key is 
+274.89662170410156
+Time taken in decryption 
+67.94929504394531
+
+ 
+ 
+ lk= 13
+ 
+size of prime number in bits is 13
+secret key is 5531
+The length of data in bits is: 424
+value of a is 5
+cdash formed + 
+Break Successful 
+Secret key is 5531
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 13and a =5
+Time taken in encryption of text is 
+891.2086486816406
+Time taken to recover secret key is 
+133.03756713867188
+Time taken in decryption 
+66.7572021484375
+
+ 
+ 
+ lk= 14
+ 
+size of prime number in bits is 14
+secret key is 12959
+The length of data in bits is: 424
+value of a is 5
+cdash formed + 
+Break Successful 
+Secret key is 12959
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 14and a =5
+Time taken in encryption of text is 
+923.8719940185547
+Time taken to recover secret key is 
+157.1178436279297
+Time taken in decryption 
+66.04194641113281
+
+ 
+ 
+ lk= 15
+ 
+size of prime number in bits is 15
+secret key is 27883
+The length of data in bits is: 424
+value of a is 5
+cdash formed + 
+Break Successful 
+Secret key is 27883
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 15and a =5
+Time taken in encryption of text is 
+895.9770202636719
+Time taken to recover secret key is 
+132.3223114013672
+Time taken in decryption 
+68.18771362304688
+
+ 
+ 
+ lk= 16
+ 
+size of prime number in bits is 16
+secret key is 45887
+The length of data in bits is: 424
+value of a is 5
+cdash formed + 
+Break Successful 
+Secret key is 45887
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 16and a =5
+Time taken in encryption of text is 
+875.7114410400391
+Time taken to recover secret key is 
+144.00482177734375
+Time taken in decryption 
+66.99562072753906
+
+ 
+ 
+ lk= 17
+ 
+size of prime number in bits is 17
+secret key is 120709
+The length of data in bits is: 424
+value of a is 5
+cdash formed + 
+Break Successful 
+Secret key is 120709
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 17and a =5
+Time taken in encryption of text is 
+881.4334869384766
+Time taken to recover secret key is 
+175.71449279785156
+Time taken in decryption 
+66.51878356933594
+
+ 
+ 
+ lk= 18
+ 
+size of prime number in bits is 18
+secret key is 145193
+The length of data in bits is: 424
+value of a is 5
+cdash formed + 
+Break Successful 
+Secret key is 145193
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 18and a =5
+Time taken in encryption of text is 
+1019.2394256591797
+Time taken to recover secret key is 
+161.88621520996094
+Time taken in decryption 
+72.479248046875
+
+ 
+ 
+ lk= 19
+ 
+size of prime number in bits is 19
+secret key is 270797
+The length of data in bits is: 424
+value of a is 5
+cdash formed + 
+Break Successful 
+Secret key is 270797
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 19and a =5
+Time taken in encryption of text is 
+1056.4327239990234
+Time taken to recover secret key is 
+140.19012451171875
+Time taken in decryption 
+71.04873657226562
+
+ 
+ 
+ lk= 20
+ 
+size of prime number in bits is 20
+secret key is 748331
+The length of data in bits is: 424
+value of a is 5
+cdash formed + 
+Break Successful 
+Secret key is 748331
+Encryption and Decryption successful 
+ 
+ 
+ 
+  For lk= 20and a =5
+Time taken in encryption of text is 
+959.3963623046875
+Time taken to recover secret key is 
+145.43533325195312
+Time taken in decryption 
+74.3865966796875
+
+ 
+ 
+ 
